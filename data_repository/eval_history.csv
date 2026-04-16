@@ -1,0 +1,5 @@
+Time,Dataset,Filename,Method,N-Gram,Precision,Recall,F1,Precision_val,Recall_val,F1_val
+2026-04-15 21:38,car_ele,processed_car_mix_n4_car_ele_top3_oracle.json,mix,4,31.60%,30.43%,31.01%,31.6,30.43,31.01
+2026-04-15 21:05,car,processed_car_mix_n4_car_ele_top3_oracle.json,mix,4,31.60%,30.43%,31.01%,31.6,30.43,31.01
+2026-03-26 18:59,ele_car,processed_ele_car_mix_n4_ele_car_top3_oracle.json,mix,4,31.19%,28.52%,29.80%,31.19,28.52,29.8
+2026-03-26 15:05,car,processed_car_mix_n4_car_ele_top3_oracle.json,mix,4,31.60%,30.43%,31.01%,31.6,30.43,31.01
